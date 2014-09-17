@@ -1,0 +1,29 @@
+{
+  "name": "analog-clock-angle-js",
+  "version": "0.1.0",
+  "description": "Algorithm that calculates the acute angle formed by analog clock hour and minute hands, given the hour and minute as integers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec ./test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TJKoury/analog-clock-angle-js"
+  },
+  "keywords": [
+    "interview",
+    "question",
+    "algorithm",
+    "clock",
+    "angle"
+  ],
+  "author": "TJKoury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJKoury/analog-clock-angle-js/issues"
+  },
+  "devDependencies": {
+    "should": "~4.0.4",
+    "mocha": "~1.21.4"
+  }
+}
