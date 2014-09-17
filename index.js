@@ -1,7 +1,11 @@
 /**
+* @function 
+* 
 * Function that, given time as an hour and minute as integers, returns 
 * the acute angle that the hands form on an analog clock.
-*
+* 
+* @param {number} hr 
+* @param {number} min
 */
 
 module.exports = function(hr, min){
